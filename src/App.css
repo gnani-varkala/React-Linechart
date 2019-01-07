@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.custom-file-upload {
+  border: 1px solid #218a8e;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+  margin-top: 100px;
+  background: #218a8e;
+  color: #fff;
+}
+
+.errorMessage {
+  text-align: center;
+  color: red;
+}
